@@ -32,7 +32,7 @@ custom_settings = {
 Write command in CMD
 
 ```
-scrapy runspider steward.py -o steward_job_data.json
+scrapy runspider steward_spider.py -o steward_job_data.json
 ```
 ```
 steward_job_data.json
